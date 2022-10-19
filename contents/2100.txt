@@ -1,0 +1,44 @@
+İzmir Matematik Günleri – II – Dokuz Eylül Üniversitesi Fen Fakültesi Matematik Bölümü İçeriğe atla Dokuz Eylül Üniversitesi Fen Fakültesi Matematik Bölümü Menü Ana sayfa Bölüm Genel Tanıtım Bölüm Yönetimi Anabilim Dalları Komisyonlar Personel Akademik Personel Eğitim Akademik Takvim Ders Programı Lisansüstü Ders Kataloğu Güncel Lisans Yüksek Lisans Doktora Arşiv Fen Bilimleri Enstitüsü Kütüphane Yandal Programı Aday Öğrenciler Araştırma Aritmetik Grubu Cebir Grubu Geometri Grubu Topoloji Grubu Matematiksel Fizik Seminerleri İletişim English İzmir Matematik Günleri – II 14 Haziran 2019 14 Haziran 2019 Yazarı: cem çelik İzmir Matematik Günleri – II 12-13 Eylül 2019 İMG 2019 Çalıştay web sayfası: http://img.deu.edu.tr/ İzmir
+ Matematik Günlerinin iki temel hedefinden biri yüksek lisans / doktora 
+öğrencilerinin ve genç araştırmacıların çalışmalarını, fikirlerini ve 
+tecrübelerini paylaşacakları, araştırma ve mentor ağları kurabilecekleri
+ bir platform oluşturmaktır. Bir diğer hedefi ise lisans öğrencilerini, 
+Matematik alanında akademik kariyer yapmak için cesaretlendirmektir. Çalıştay
+ iki farklı oturumdan oluşacaktır. Sabah oturumlarında davetli 
+konuşmacılar kendi çalışma alanlarını tanıtan kolokyum konuşmaları 
+vereceklerdir. Öğleden sonra oturumları ise yüksek lisans / doktora 
+öğrencilerinin ve genç araştırmacıların konuşmalarına ayrılmıştır. 
+Ayrıca DEÜ Matematik Bölümündeki yüksek lisans / doktora programlarını 
+tanıtan bir bilgilendirici panel yapılacaktır. Sunum dilleri İngilizce veya Türkçe’dir. Konuşmacı tercihini başvuru sürecinde kesin olarak belirtmelidir. Konuşma ve poster özetleri İngilizce olmalıdır. Davetli Konuşmacılar Yusuf Civan ( Süleyman Demirel Üniversitesi ) Başlık:  A short tour in combinatorics Özet: This
+ is an invitatory talk to a short trip through the jungle of 
+combinatorics, one of the fascinating fields of modern mathematics. If 
+time permits, we plan to visit various sites in the jungle, including 
+those from combinatorial number theory to discrete geometry, graph 
+theory to combinatorial commutative algebra, etc. Lastly, after showing 
+our respect to the founder king “Paul Erdös” of the jungle, we review 
+the current status of some of his favorite open problems. Konstantinos Kalimeris ( Cambridge Üniversitesi ) Başlık: Water waves – Two asymptotic approaches Özet: TBA Müge Kanuni Er ( Düzce Üniversitesi ) Başlık: Mad Vet… Özet: How
+ does a recreational problem “Mad Vet” links to interesting and 
+interdisciplinary mathematical research “Leavitt path algebras” in 
+algebra and “Graph C*-algebras” in analysis. We
+ will give a survey of the last 15 years of research done in a 
+particular example of non-commutative rings flourishing from the fact 
+that free modules over some non-commutative rings can have two bases 
+with different cardinality.   Surprisingly enough not only 
+non-commutative ring theorists, but also C*-algebraists gather together 
+to advance the work done. The interplay between
+ the topics stimulate interest and many proof techniques and tools are 
+used from symbolic dynamics, ergodic theory, homology, K-theory and 
+functional analysis. Many papers have been published on this structure, so called Leavitt path algebras, which is constructed on a directed graph. Haydar Göral ( Dokuz Eylül Üniversitesi ) Başlık: Arithmetic Progressions Özet: A
+ sequence whose consecutive terms have the same difference is called an 
+arithmetic progression. For example, even integers form an infinite 
+arithmetic progression. An arithmetic progression can also be finite. 
+For instance, 5, 9, 13, 17 is an arithmetic progression of length 4. 
+Finding long arithmetic progressions in certain subsets of integers is 
+at the centre of mathematics in the last century. In his seminal work, 
+Szemerédi (1975) proved that if A is a subset of positive integers with 
+positive upper density, then A contains arbitrarily long arithmetic 
+progressions. With this result, Szemerédi proved the long standing 
+conjecture of Erdős and Turan. Another recent remarkable result was 
+obtained by Green and Tao in 2005: The set of prime numbers contains 
+arbitrarily long arithmetic progressions. In this talk, we will survey 
+these results and some ideas behind them. Kategoriler çalıştay Yazı dolaşımı İzo-artin ve İzo-Noether Modülleri Üzerine – 2 2019-2020 Güz Dönemi Lisansüstü Eğitim Başvuruları Posta adresi: Dokuz Eylül Üniversitesi Tınaztepe Yerleşkesi, FenFakültesi Matematik Bölümü 35390 Buca/İzmir e-posta: matematik.fen@deu.edu.tr    Telefon: +90 232 301 85 08    Fax: +90 232 453 41 88 © 2021 Dokuz Eylül Üniversitesi Fen Fakültesi Matematik Bölümü • Powered by GeneratePress Başa dön
